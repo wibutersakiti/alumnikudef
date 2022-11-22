@@ -1,0 +1,10 @@
+exploit : /admin/login
+
+output:Halaman Login
+
+tools:none
+
+download:https://github.com/wibutersakiti/alumnikudef
+
+
+dork: inurl:/main/carialumni
